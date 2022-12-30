@@ -10,6 +10,7 @@
 
 # production
 /build
+/utils
 
 # misc
 .DS_Store
@@ -27,5 +28,3 @@ yarn-error.log*
 yarn.lock
 package-lock.json
 
-#api key
-firebase.utils.js
