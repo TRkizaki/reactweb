@@ -14,7 +14,8 @@
     "react-router-dom": "6.4.3",
     "react-scripts": "5.0.1",
     "sass": "1.56.2",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+    "webpack": "5.75.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -39,5 +40,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "volta": {
+    "node": "18.12.1",
+    "npm": "8.19.3"
   }
 }
