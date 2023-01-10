@@ -3,8 +3,7 @@
   "name": "crwn-clothing",
   "version": "0.1.0",
   "private": true,
-  "prebuild": "[[ $CI = true ]] && npx pnpm@7 install --store=node_modules/.pnpm-store || echo skiping pnpm install",
-
+  "prebuild": "[[ $CI = true ]] && npx pnpm install --store=node_modules/.pnpm-store || echo skiping pnpm install",
   "dependencies": {
     "@react-firebase/auth": "^0.2.10",
     "@testing-library/jest-dom": "^5.16.5",
