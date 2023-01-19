@@ -1,8 +1,8 @@
 {
-  "name": "crwn-clothing",
+  "name": "reactweb",
   "version": "0.1.0",
   "private": true,
-  "packageManager": "pnpm@7.23.0",
+  "packageManager": "pnpm@7.25.0",
 
 
   "dependencies": {
@@ -50,6 +50,6 @@
     "npm": "8.19.3"
   },
   "devDependencies": {
-    "pnpm": "^7.23.0"
+    "pnpm": "^7.25.0"
   }
 }
