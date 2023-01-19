@@ -32,9 +32,10 @@ dependencies:
   styled-components: 5.3.6_biqbaboplfbrettd7655fr4n2y
   web-vitals: 2.1.4
   webpack: 5.75.0
+  pnpm: 7.25.0
 
 devDependencies:
-  pnpm: 7.25.0
+ 
 
 packages:
 
