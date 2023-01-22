@@ -1,7 +1,0 @@
-[build.environment]
-  NODE_VERSION = "19.4.0"
-  PNPM_FLAGS = "--shamefully-hoist"
-
-[build]
-  command = "pnpm run build"
-  
